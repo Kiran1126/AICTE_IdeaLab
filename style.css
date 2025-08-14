@@ -139,7 +139,7 @@ header nav ul li:hover{
 .shadow{
     text-transform: uppercase;
     position: relative;
-    font-size: 125px;
+    font-size: 95px;
     font-weight: 900;
     font-family: Montserrat;
     color: rgb(137, 137, 240);
@@ -152,9 +152,9 @@ header nav ul li:hover{
     opacity: 0.2;
 }
 .shadowUprText{
-    margin-top: 3.5%; 
+    margin-top: 2.5%; 
     font-family: Montserrat;
-    font-size: 45px;
+    font-size: 35px;
     color: rgb(0, 0, 0);
     font-weight: 700;
     position: absolute;
@@ -167,9 +167,9 @@ header nav ul li:hover{
     opacity: 1;
 }
 .textShadowBorder{
-    border-bottom: 0.35vw rgb(6, 143, 255) solid;
-    width: 7%;
-    margin-top: 8%;
+    border-bottom: 0.25vw rgb(6, 143, 255) solid;
+    width: 8%;
+    margin-top: 6%;
     position: absolute;
     transform: translateX(50%);
     transition: transform 1s ease;
