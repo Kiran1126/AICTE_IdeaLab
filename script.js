@@ -14,19 +14,6 @@ function move(){
     });
 }
 
-// code for screen loader animation
-// let myVar;
-
-// function myFunction() {
-//   myVar = setTimeout(showPage, 1500);
-// }
-
-// function showPage() {
-//   document.getElementById("loader").style.display = "none";
-//   document.getElementById("myDiv").style.display = "block";
-// }
-// code for screen loader animation
-
 const wrapper = document.querySelector(".wrapper");
 const carousel = document.querySelector(".carousel");
 const firstCardWidth = carousel.querySelector(".card").offsetWidth;
